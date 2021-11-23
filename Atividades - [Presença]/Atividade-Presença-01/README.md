@@ -1,2 +1,3 @@
-Criar no Github o repositório da disciplina.
-Evidenciar no Classroom o link do repositório.
+Criar uma conta no  Cisco Academy.
+Evidenciar a inscrição com PDF do registro da Conta 
+postado do Github atividades-presenca/presença-01.
